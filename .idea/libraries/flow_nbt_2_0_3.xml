@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flow-nbt-2.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ressources/flow-nbt-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
