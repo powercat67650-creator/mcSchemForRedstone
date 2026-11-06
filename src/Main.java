@@ -19,7 +19,7 @@ public class Main {
         String selection = secScanner.nextLine();
         if (selection.contains("f")){
             System.out.println("you NEED to put space between arguments !!");
-            System.out.println("for the list of format or additional information, please check the github repository");
+            System.out.println("for the list of format or additional information, please check the github repository!");
             String functionInput = secScanner.nextLine();
             System.out.println("start ?");
             double start = secScanner.nextDouble();
